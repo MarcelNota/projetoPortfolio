@@ -1,5 +1,5 @@
 function toggleMode() {
-  alert("Tem otimos gostos humano")
+  //alert("Tem otimos gostos humano")
   const html = document.documentElement
   html.classList.toggle("light")
 
